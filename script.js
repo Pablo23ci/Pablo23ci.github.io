@@ -1,1 +1,3 @@
-console.log("Hello World!");
+function wypisz() {
+    console.log("Hello World!");
+}
